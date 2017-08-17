@@ -20,6 +20,8 @@ public class ParteDiario extends javax.swing.JFrame {
         
         //INITTABLE
         
+        llmada1();
+        
     }
 
     /**
